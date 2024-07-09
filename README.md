@@ -4,6 +4,8 @@
 
 Automate the detection and merging of duplicate lead records in Salesforce with this solution that uses Apex triggers, queueable, batch processes, and customizable matching logic. Mocking framework (Stub API) is used for dependency injection and unit testing.
 
+The design is aimed to handle a large number of records while giving up some of the immediacy of real-time responses. However, if needed, the process can be adjusted with some minor changes.
+
 ## Features
 
 -   **Automatic Detection**: Identifies duplicate lead records using matching keys created as per business rules.
