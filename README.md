@@ -6,7 +6,7 @@ Automate the detection and merging of duplicate lead records in Salesforce with 
 
 ## Features
 
--   **Automatic Detection**: Identifies duplicates through matching lead records using matching keys created as per business rules.
+-   **Automatic Detection**: Identifies duplicate lead records using matching keys created as per business rules.
 -   **Efficient Merging**: Utilizes batch processing for performance optimization.
 -   **Stub API Testing Framework**: Ensures reliable and isolated testing of duplicate management logic.
 
